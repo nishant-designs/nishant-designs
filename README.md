@@ -1,4 +1,14 @@
-## Hi there 👋
+# Hi, I'm Nishant Verma 👋
+
+I'm a visual designer and creative developer based in Kota, India. I work across visual identity, UI/UX, 3D, and interactive experiences.
+
+## Featured project
+
+**Mortise Chess** — an interactive chess project where I bring interface design and development together.
+
+## Let's connect
+
+I'm open to design collaborations and creative work. Explore my projects here, or reach me through the portfolio and social links on my profile.
 
 <!--
 **nishant-designs/nishant-designs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
